@@ -1,4 +1,4 @@
 Goal of this project:
-Convert PDF to readable
+Convert PDF to readable text
 Convert text to speech
-Video of pages as it's being read
+Create a video of the pages as it's being read
