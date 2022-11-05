@@ -1,0 +1,9 @@
+# pycache files
+__pycache__/
+temp_images/
+*.avi
+*.mp4
+*.mp3
+notes.txt
+*.pdf
+*.png
